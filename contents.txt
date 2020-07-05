@@ -1,0 +1,4 @@
+../../../Templates/TP_FPS/manifest.json
+../../../Templates/TP_FPS/Config/config.ini
+../../../Templates/TP_FPS/Media/TP_FPS.png
+../../../Templates/TP_FPS/Media/TP_FPS_Preview.png
